@@ -1,0 +1,234 @@
+[
+  {
+    "full_name": "Elena Papadopoulou",
+    "headline": "EU Project Manager | Horizon Europe, Green Deal",
+    "country": "Greece",
+    "city": "Athens",
+    "email": "elena.pap@example.com",
+    "phone": "+30 210 555 1234",
+    "languages": [
+      "EN",
+      "EL",
+      "FR"
+    ],
+    "skills": [
+      "Horizon Europe",
+      "Grant Writing",
+      "Stakeholder Engagement",
+      "Risk Management"
+    ],
+    "roles": [
+      "Project Manager"
+    ],
+    "seniority": "Senior",
+    "availability": "<1 month",
+    "work_type": "Contract",
+    "years_experience": 9,
+    "day_rate": 450,
+    "remote": true,
+    "relocation": false,
+    "sdg_expertise": [
+      "SDG9 Industry",
+      "SDG13 Climate"
+    ],
+    "sectors": [
+      "Green Transition",
+      "Energy"
+    ],
+    "tools": [
+      "Jira",
+      "Confluence",
+      "MS Project"
+    ],
+    "summary": "Seasoned EU PM leading multi-country consortia with on-time delivery.",
+    "last_updated": "2025-08-09T12:32:44.656170Z",
+    "cv_url": "",
+    "notes": "Available for 12-month engagement"
+  },
+  {
+    "full_name": "Nikos Droukas",
+    "headline": "Data Analytics Manager | SAS Viya | Banking",
+    "country": "Greece",
+    "city": "Athens",
+    "email": "nikos.droukas@example.com",
+    "phone": "+30 210 555 5678",
+    "languages": [
+      "EN",
+      "EL"
+    ],
+    "skills": [
+      "SAS Viya",
+      "SQL",
+      "Python",
+      "ML Ops",
+      "Model Governance"
+    ],
+    "roles": [
+      "Data Scientist",
+      "Analytics Manager"
+    ],
+    "seniority": "Lead",
+    "availability": "1-3 months",
+    "work_type": "Full-time",
+    "years_experience": 12,
+    "day_rate": 650,
+    "remote": true,
+    "relocation": false,
+    "sdg_expertise": [
+      "SDG8 Decent Work",
+      "SDG9 Industry"
+    ],
+    "sectors": [
+      "Finance",
+      "RegTech"
+    ],
+    "tools": [
+      "SAS Viya",
+      "Python",
+      "Airflow"
+    ],
+    "summary": "Leading analytics initiatives in regulated environments with explainable AI.",
+    "last_updated": "2025-08-09T12:32:44.656170Z",
+    "cv_url": "",
+    "notes": "Ideal for AI governance and credit risk projects"
+  },
+  {
+    "full_name": "Maria Rossi",
+    "headline": "Financial Officer | EU Grants | Compliance",
+    "country": "Italy",
+    "city": "Milan",
+    "email": "m.rossi@example.it",
+    "phone": "+39 02 1234 5678",
+    "languages": [
+      "EN",
+      "IT",
+      "ES"
+    ],
+    "skills": [
+      "Budgeting",
+      "Financial Reporting",
+      "Audits",
+      "Cost Control"
+    ],
+    "roles": [
+      "Financial Officer"
+    ],
+    "seniority": "Senior",
+    "availability": "Immediate",
+    "work_type": "Freelance",
+    "years_experience": 7,
+    "day_rate": 400,
+    "remote": true,
+    "relocation": false,
+    "sdg_expertise": [
+      "SDG16 Institutions"
+    ],
+    "sectors": [
+      "Health",
+      "Education"
+    ],
+    "tools": [
+      "Excel",
+      "SAP",
+      "Power BI"
+    ],
+    "summary": "Ensures audit-ready documentation and clean cost claims for EU projects.",
+    "last_updated": "2025-08-09T12:32:44.656170Z",
+    "cv_url": "",
+    "notes": "Free for 3 days/week"
+  },
+  {
+    "full_name": "Jakub Nowak",
+    "headline": "AI Engineer | NLP | Data Spaces",
+    "country": "Poland",
+    "city": "Gdańsk",
+    "email": "jakub.nowak@example.pl",
+    "phone": "+48 58 123 4567",
+    "languages": [
+      "EN",
+      "PL",
+      "DE"
+    ],
+    "skills": [
+      "NLP",
+      "Vector DBs",
+      "ETL",
+      "Docker",
+      "Kubernetes"
+    ],
+    "roles": [
+      "AI Engineer",
+      "Data Engineer"
+    ],
+    "seniority": "Mid",
+    "availability": ">3 months",
+    "work_type": "Contract",
+    "years_experience": 5,
+    "day_rate": 520,
+    "remote": true,
+    "relocation": true,
+    "sdg_expertise": [
+      "SDG9 Industry",
+      "SDG10 Reduced Inequalities"
+    ],
+    "sectors": [
+      "Digital",
+      "Public Sector"
+    ],
+    "tools": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "summary": "Builds reliable AI pipelines; experience with EU data space pilots.",
+    "last_updated": "2025-08-09T12:32:44.656170Z",
+    "cv_url": "",
+    "notes": "Prefers hybrid in Gdańsk or remote"
+  },
+  {
+    "full_name": "Sofia Dimitrova",
+    "headline": "Communications Lead | Dissemination & Exploitation",
+    "country": "Bulgaria",
+    "city": "Sofia",
+    "email": "sofia.dimitrova@example.bg",
+    "phone": "+359 2 987 6543",
+    "languages": [
+      "EN",
+      "BG",
+      "FR"
+    ],
+    "skills": [
+      "Content Strategy",
+      "KPIs",
+      "Stakeholder Mapping",
+      "Branding"
+    ],
+    "roles": [
+      "Communications Manager"
+    ],
+    "seniority": "Mid",
+    "availability": "Immediate",
+    "work_type": "Part-time",
+    "years_experience": 6,
+    "day_rate": 300,
+    "remote": true,
+    "relocation": false,
+    "sdg_expertise": [
+      "SDG4 Education",
+      "SDG17 Partnerships"
+    ],
+    "sectors": [
+      "Culture",
+      "Digital"
+    ],
+    "tools": [
+      "Canva",
+      "Figma",
+      "WordPress"
+    ],
+    "summary": "Hands-on dissemination lead delivering high-impact communication plans.",
+    "last_updated": "2025-08-09T12:32:44.656170Z",
+    "cv_url": "",
+    "notes": "Strong KPI tracking and reporting"
+  }
+]
